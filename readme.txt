@@ -1,4 +1,6 @@
-ad
+i
+set num
+:::dasddasd asfgfawe	d
 dasda
 B
 B
